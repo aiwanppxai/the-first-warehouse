@@ -1,0 +1,7 @@
+#inlcude <iostream>
+using namespace std;
+int main()
+{
+  cot <<" 你 好 "<< endl;
+}
+return 0;
